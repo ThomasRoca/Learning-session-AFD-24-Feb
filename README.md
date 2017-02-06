@@ -1,10 +1,7 @@
-# Crisis Preparedness & Management in the Network Age ([Conference link](https://www.eventbrite.com/e/crisis-preparedness-management-in-the-network-age-tickets-30294092446))
+# Crisis Preparedness & Management in the Network Age ([Link](https://www.eventbrite.com/e/crisis-preparedness-management-in-the-network-age-tickets-30294092446))
 *Agence Française de Développement*
 
 ## Learning session: Mapping and Data capsule AFD 24 Feb.
-
-### Data and information
-
 ![](http://www.stats4dev.com/img/imageSmall.png)
 
 ---
