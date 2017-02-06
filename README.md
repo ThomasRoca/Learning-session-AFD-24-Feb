@@ -13,5 +13,8 @@
 
 #### 2. Dataviz Expedition: [Techfugees](http://www.cartong.org/), [AFD](http://data.afd.fr) and [UNHCR data](http://data2.unhcr.org)
 - Refugees flow using [UNHCR data API](http://data.unhcr.org/wiki/index.php/API_Documentation.html)
-
+  - dataviz template can be found on [d3js](https://d3js.org/) or [Highcharts](http://www.highcharts.com/)
+    - exemple using d3.js [UNFPA Maldive migration](https://bl.ocks.org/UNFPAmaldives/2fb5fde367cd583b5487544aa529407d), [flight route](http://www.decembercafe.org/demo/plane/)
+    - exemple using highcharts [plane route in UK](https://jsfiddle.net/ThomasRoca/808n6tvk/)
+    
 #### 3. Data capsule: exploring Smugglers dataset with [Techfugees](http://www.cartong.org/) - dataset to come
