@@ -4,7 +4,9 @@
 ## Learning session: Mapping and Data capsule AFD 24 Feb.
 ![](http://www.stats4dev.com/img/imageSmall.png)
 
----
+## What we would like to explore:
+
+
 #### 1. Mapathon avec [CartONG](http://www.cartong.org/)
 
 - Mapping Bidibidi Refugee camp in [Uganda](http://www.openstreetmap.org/#map=6/3.042/30.894&layers=HG)
@@ -18,3 +20,14 @@
     - exemple using highcharts [flight routes in UK](https://jsfiddle.net/ThomasRoca/808n6tvk/)
     
 #### 3. Data capsule: exploring Smugglers dataset with [Techfugees](http://www.cartong.org/) - dataset to come
+
+## How we would like to proceed:
+
+### Starts at 16.00
+1. Challenges presentations by CartONG, Techfugees and AFD/UNHCR and groups constitution (20 min)
+2. Work session 
+  - work  (1h)
+  - Break (10 min)
+  - Work (1h)
+  - Break (10 min)
+ 3. Presentation of the results (45 min: 7 minutes per group)
