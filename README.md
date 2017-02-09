@@ -1,5 +1,5 @@
 # [Crisis Preparedness & Management in the Network Age](https://www.eventbrite.com/e/crisis-preparedness-management-in-the-network-age-tickets-30294092446)
-*Agence Française de Développement*
+*Agence Française de Développement: 16:00 - 19:30*
 
 ## Learning session: Mapping and Data capsule AFD 24 Feb.
 ![](http://www.stats4dev.com/img/imageSmall.png)
@@ -24,7 +24,7 @@
 ## How we would like to proceed:
 
 ### Starts at 16.00
-1. Challenges presentations by CartONG, Techfugees and AFD/UNHCR and groups constitution (20 min)
+1. Challenges presentations by CartONG, Techfugees and AFD/UNHCR and groups constitution (25 min)
 2. Work session 
   - work  (1h)
   - Break (10 min)
