@@ -19,7 +19,9 @@
     - exemple using d3.js [UNFPA Maldive migration](https://bl.ocks.org/UNFPAmaldives/2fb5fde367cd583b5487544aa529407d), [flight route](http://www.decembercafe.org/demo/plane/)
     - exemple using highcharts [flight routes in UK](https://jsfiddle.net/ThomasRoca/808n6tvk/)
     
-#### 3. Data capsule: exploring Smugglers dataset with [Techfugees](http://www.cartong.org/) - dataset to come
+#### 3. Data capsule: exploring Smugglers dataset with [Techfugees](http://www.cartong.org/) - dataset to come 
+**NB. This dataset should not be consider complete or reliable. Its a collection of data taken from different soucrces mentionned in the document. Thus the data capsule must be considered as an exploratory exercise**
+
 
 
 ## How we would like to proceed:
