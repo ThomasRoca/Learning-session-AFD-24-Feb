@@ -21,6 +21,7 @@
     
 #### 3. Data capsule: exploring Smugglers dataset with [Techfugees](http://www.cartong.org/) - dataset to come
 
+
 ## How we would like to proceed:
 
 ### Starts at 16.00
