@@ -30,4 +30,4 @@
   - Break (10 min)
   - Work (1h)
   - Break (10 min)
- 3. Presentation of the results (45 min: 7 minutes per group)
+3. Presentation of the results (45 min: 7 minutes per group)
