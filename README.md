@@ -8,15 +8,17 @@
 
 
 #### 1. Mapathon avec [CartONG](http://www.cartong.org/)
-Using [http://www.openstreetmap.org/](http://www.openstreetmap.org/)
+
+Using [Open Street Map online edit tool](http://www.openstreetmap.org/) - *Please create your account before the event*
 - Mapping Bidibidi Refugee camp in [Uganda](http://www.openstreetmap.org/#map=6/3.042/30.894&layers=HG)
 - Mapping Ouahigouya in [Burkina Faso](http://www.openstreetmap.org/search?query=Ouahigouya%2C%20Burkina%20Faso#map=12/13.5727/-2.3627)
+
 Using [QGIS](https://www.qgis.org/fr/site/forusers/download.html) *Please install QGis on your machine before the event*
 - Exploring [Johannesburg](http://www.openstreetmap.org/#map=14/-26.2043/28.0457) 
-  - Dataset 1:
-  - Dataset 2: 
-  - Dataset 3:
-  - Dataset 4:
+  - Dataset 1: [Population and labor force](http://www.stats4dev.com/data/SP and SAL Joins Population Jobs and Roads Gauteng.zip)
+  - Dataset 2: [Economic data](http://www.stats4dev.com/data/DATA Joburg_2014.zip)
+  - Dataset 3: [Cadastral data](http://www.stats4dev.com/data/Datas de Décembre 16_CoJ.zip)
+  - Dataset 4: [Buildings](http://www.stats4dev.com/data/B_BUILDING.zip)
 
 #### 2. Dataviz Expedition: [Techfugees](http://www.cartong.org/), [AFD](http://data.afd.fr) and [UNHCR data](http://data2.unhcr.org)
 - Refugees flow using [UNHCR data API](http://data.unhcr.org/wiki/index.php/API_Documentation.html), UNHCR pop Stat: [here](https://raw.githubusercontent.com/unhcr-mena/popstats/gh-pages/data/unhcr_popstats_export_time_series_all_data.csv) and [here](http://popstats.unhcr.org/en/overview). Migration using [UN Population data](http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates15.shtml)
