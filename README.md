@@ -4,6 +4,8 @@
 ## Learning session: Mapping and Data capsule AFD 24 Feb.
 ![](http://www.stats4dev.com/img/imageSmall.png)
 
+### !! Don't forget to bring your laptop !
+
 ## What we would like to explore:
 
 
