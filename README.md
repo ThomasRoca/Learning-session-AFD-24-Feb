@@ -14,7 +14,7 @@
 Using [Open Street Map online edit tool](http://www.openstreetmap.org/) - *Please create your account before the event*
 - Mapping Maidiguri Refugee camp in [Nigeria](http://tasks.hotosm.org/project/2488)
 - Mapping Kismaayo in [Somalia](http://tasks.hotosm.org/project/2384)
-
+- Mapping Ouahigouya in [Burkina Faso](http://www.openstreetmap.org/search?query=Ouahigouya%2C%20Burkina%20Faso#map=12/13.5727/-2.3627)
 Using [QGIS](https://www.qgis.org/fr/site/forusers/download.html) *Please install QGis on your machine before the event*
 - Exploring [Johannesburg](http://www.openstreetmap.org/#map=14/-26.2043/28.0457) 
   - Dataset 1: [Population and labor force](http://www.stats4dev.com/data/SP and SAL Joins Population Jobs and Roads Gauteng.zip)
