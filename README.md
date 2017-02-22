@@ -12,8 +12,8 @@
 ### 1. Mapathon avec [CartONG](http://www.cartong.org/)
 
 Using [Open Street Map online edit tool](http://www.openstreetmap.org/) - *Please create your account before the event*
-- Mapping Bidibidi Refugee camp in [Uganda](http://www.openstreetmap.org/#map=6/3.042/30.894&layers=HG)
-- Mapping Ouahigouya in [Burkina Faso](http://www.openstreetmap.org/search?query=Ouahigouya%2C%20Burkina%20Faso#map=12/13.5727/-2.3627)
+- Mapping Maidiguri Refugee camp in [Nigeria](http://tasks.hotosm.org/project/2488)
+- Mapping Kismaayo in [Somalia](http://tasks.hotosm.org/project/2384)
 
 Using [QGIS](https://www.qgis.org/fr/site/forusers/download.html) *Please install QGis on your machine before the event*
 - Exploring [Johannesburg](http://www.openstreetmap.org/#map=14/-26.2043/28.0457) 
